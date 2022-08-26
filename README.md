@@ -1,2 +1,6 @@
 # Entendiendo_Gabrielas_code_Borland
-Procedo a trabajar directamente en Borland
+
+Estoy buscando dónde está el error handling de Borland. Este código lo ejecuto directamente con Borland.
+
+Test:
+1. Quiero ver si el código compila. Elimino el .exe y lo mando a compilar
